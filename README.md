@@ -1,4 +1,4 @@
-# Agenda of Belgian Ruby Shops
+# List of Belgian Ruby Shops
 
 The [list](bnlrubyshops.csv).
 
