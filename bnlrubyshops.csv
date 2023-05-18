@@ -1,69 +1,64 @@
 Company,Website,Category,City,Country
-80LIMIT,http://80limit.com,agency,Mons,Belgium
-Amazon Financial Services,,product,Luxembourg,Luxembourg
-AirShaper,http://airshaper.com,product,Antwerpen,Belgium
-ArchiSnapper,https://archisnapper.com,product,Zottegem,Belgium
+80LIMIT,https://80limit.com,agency,Mons,Belgium
+AirShaper,https://airshaper.com,product,Antwerpen,Belgium
 Apprentus,https://www.apprentus.be/,,Brussels,Belgium
 AppTweak,https://www.apptweak.com/,SaaS,Brussels,Belgium
-BeLighted,http://belighted.com,agency,Louvain-la-Neuve,Belgium
-BearingCLOUD,http://www.bearingcloud.com,SaaS,Antwerpen,Belgium
+ArchiSnapper,https://archisnapper.com,product,Zottegem,Belgium
+BearingCLOUD,https://www.bearingcloud.com,SaaS,Antwerpen,Belgium
+Belighted,https://belighted.com,agency,Louvain-la-Neuve,Belgium
 BigUp,http://bigup.be,agency,Wavre,Belgium
-BlueSquare,http://www.bluesquare.org,,Brussels,Belgium
-Chem-Lab,http://chem-lab.be,,Zedelgem,Belgium
-CitizenLab,http://citizenlab.co,product,Brussels,Belgium
-Clubit,http://www.clubit.be,agency,Niel,Belgium
-Conseil Supérieur de l'Audiovisuel (CSA),http://www.csa.be/,,Brussels,Belgium
+Bluesquare,https://www.bluesquare.org,,Brussels,Belgium
+by2.be,http://by2.be,agency,Brugge,Belgium
+CHEM-LAB,https://www.chem-lab.be/,,Zedelgem,Belgium
+CitizenLab,https://www.citizenlab.co/fr-be,product,Brussels,Belgium
+Clarivate,https://clarivate.com/,product,Antwerpen,Belgium
+Clubit,https://www.clubit.be,agency,Niel,Belgium
+Conseil Supérieur de l'Audiovisuel (CSA),https://www.csa.be/,,Brussels,Belgium
 Cowboy,https://fr-be.cowboy.com,product,Brussels,Belgium
 Dandy Coding,http://dandycoding.com/,agency,Mons,Belgium
 DataCamp,https://www.datacamp.com/,,Leuven,Belgium
-Digiti, http://www.digiti.be/,agency,Herentals, Belgium
-Diploid,http://www.diploid.com/,,Leuven,Belgium
+Digiti,https://www.digiti.be/,agency,Herentals, Belgium
 DNAlytics,http://dnalytics.com/,product,Louvain-la-Neuve,Belgium
 Drawbotics,https://www.drawbotics.com/,product,Brussels,Belgium
-Enspirit, https://enspirit.be/,agency,Sombreffe,Belgium
-Epic,http://epic.net/,agency,Liège,Belgium
-Famest,http://www.famest.co/fr,,Louvain-la-Neuve,Belgium
+Enspirit,https://enspirit.be/,agency,Sombreffe,Belgium
+Epic,https://epic.net/,agency,Liège,Belgium
 Flexio,https://flexio.app,product,Ittre,Belgium
-Fluicity,http://get.flui.city,product,Brussels,Belgium
-Intuo,http://intuo.io,product,Ghent,Belgium
-Isabel,https://isabel.eu,,Brussels,Belgium
-JDi Agency,https://jdi-agency.com/,agency,Brussels,Belgium
-Klaro Cards, https://klaro.cards/,product,Sombreffe,Belgium
-ListMinut,https://listminut.be/workforus,product,Brussels,Belgium
-LichtVis,http://lichtvis.be,agency,Brugge,Belgium
-Le Wagon,http://www.lewagon.org/brussels,training,Brussels,Belgium
-Spreds,https://www.spreds.com/,product,Brussels,Belgium
-NephroFlow,https://nephroflow.com,product,Bruges,Belgium
-Neveo,http://www.neveo.be/,,Louvain-la-Neuve,Belgium
-Nimbly,http://nimbly.be,,Leuven,Belgium
-NodalView,http://nodalview.com/,product,Brussels,Belgium
-OneSpan,https://onespan.com,product,Brussels,Belgium
-Ontoforce,http://www.ontoforce.com,,Ghent,Belgium
-Phonoid,http://phonoid.com,agency,Mons,Belgium
-PlayPass,http://www.playpass.be,product,Antwerpen,Belgium
-Pootsy,https://pootsy.be/,product,Brussels,Belgium
-Prospect.io,https://prospect.io/,product,Brussels,Belgium
+Fluicity,https://get.flui.city,product,Brussels,Belgium
+GlobeZenit,https://www.globezenit.be/,agency,Paal,Belgium
 HipByte,http://www.hipbyte.com/,agency,Liège,Belgium
-Selinko,http://selinko.com/,,Mont-Saint-Guibert,Belgium
-Sharebox/1001Belges,http://sharebox.be,,Brussels,Belgium
-Sign2Pay,https://sign2pay.com/,product,Amsterdam,The Netherlands
-Silverfin,http://getsilverfin.com,product,Ghent,Belgium
+Invitae,https://www.invitae.com/,,Leuven,Belgium
+Isabel,https://isabel.eu,,Brussels,Belgium
+Klaro Cards,https://klaro.cards/,product,Sombreffe,Belgium
+Legacio,https://www.legacio.be/,product,Brussels,Belgium
+Le Wagon,https://www.lewagon.org/brussels,training,Brussels,Belgium
+LichtVis,https://lichtvis.be,agency,Brugge,Belgium
+NephroFlow,https://nephroflow.com,product,Brugge,Belgium
+Neveo,https://www.neveo.be/,,Louvain-la-Neuve,Belgium
+Nimbly,http://nimbly.be,,Leuven,Belgium
+NodalView,https://public.nodalview.com/,product,Brussels,Belgium
+OneSpan,https://onespan.com,product,Brussels,Belgium
+Ontoforce,https://www.ontoforce.com,,Ghent,Belgium
+Overloop,https://overloop.com/,product,Brussels,Belgium
+Phonoid,https://phonoid.com,agency,Mons,Belgium
+PlayPass,https://weezevent.com/en-gb/playpass/,product,Antwerpen,Belgium
+Pootsy,https://pootsy.be/,product,Brussels,Belgium
+Ring Twice,https://ringtwice.be/,product,Brussels,Belgium
+Selinko,https://selinko.com/,,Mont-Saint-Guibert,Belgium
+Sharebox/1001Belges,https://www.1001belges.be/,,Brussels,Belgium
+Silverfin,https://www.silverfin.com/,product,Ghent,Belgium
 Solvace,https://www.solvace.com,product,Ghent,Belgium
 SortList,https://www.sortlist.com/fr/,product,Mont-Saint-Guibert,Belgium
 Spin42,http://spin42.com/,agency,Mont-Saint-Guibert,Belgium
-Streed,http://www.streed.io/,agency,Wavre,Belgium
-SumoCoders,http://sumocoders.be/,agency,Ghent,Belgium
+Spreds,https://www.spreds.com/,product,Brussels,Belgium
+Streed,https://www.streed.io/,agency,Wavre,Belgium
+SumoCoders,https://sumocoders.be/,agency,Ghent,Belgium
 Sutori,https://www.sutori.com,product,Brussels,Belgium
-Syntra,http://www.syntravlaanderen.be,training,Brussels,Belgium
+Syntra,https://www.syntra.be/,training,Brussels,Belgium
 Translation.io,https://translation.io,product,Mons,Belgium
-TrustedFamily,http://www.trustedfamily.net/,product,Brussels,Belgium
-Typework,https://typework.com,agency,Brugge,Belgium
+TrustedFamily,https://trustedfamily.com/,product,Brussels,Belgium
 UnifiedPost,https://www.unifiedpost.com/,product,La Hulpe,Belgium
-Valipat,https://www.valipat.com,product,Brussels,Belgium
+Unit4,https://www.unit4.com/,product,Ghent,Belgium
 Vavato,https://vavato.com,saas,Sint-Niklaas,Belgium
 Venture Spirit,http://www.venturespirit.com/,,Zele,Belgium
-Xaop,http://xaop.be,,Halle,Belgium
-Yellow.lu,http://www.yellow.lu/fr,,Luxembourg,Luxembourg
-Zorros,http://zorros.be,agency,Zottegem,Belgium
-Lichtvis,http://lichtvis.be,product,Brugge,Belgium
-by2.be,http://by2.be,agency,Brugge,Belgium
+Xaop,https://xaop.be,,Halle,Belgium
+Yellow Business,https://www.yellow.lu/fr,,Luxembourg,Luxembourg
